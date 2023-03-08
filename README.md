@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Platos-Poet
-- 👀 I’m interested in Developing small projects on the side
-- 🌱 I’m currently learning how to be an adult and still find time to develop things
-- 💞️ I’m looking to collaborate on rotmg pservers at the moment
+- 👀 I’m interested in Developing small or large projects
+- 🌱 I’m currently learning many things related to code, what I'm currently focused on learning is GoLang, Java, and basic Cyber Security
+- 💞️ I’m looking to expand my developing knowledge, learn new code, and advance my career.
 - 📫 How to reach me Discord is PlatosPoet#1835 and my personal email is poet.access@gmail.com
 
 <!---
